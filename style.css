@@ -1,0 +1,133 @@
+.fa {
+    padding: 5px;
+    
+   
+  color: white         ;
+    text-decoration: none;
+   
+  }
+  .header{
+      color: white;
+      background-color: royalblue;
+      height: 50px;
+  }
+  .but{
+     
+      margin-left: 2px;
+      margin-top: 7px;
+  }
+  .btn-group{
+      padding: 30px 0px 10px 30px;
+   
+  }
+  .active{
+      background-color: royalblue;
+  }
+  .btn-light{
+     
+       border: none;
+       border-bottom-left-radius: 10px;
+       border-top-right-radius: 10px;
+       margin-right: 10px;
+       background-color: white;
+   
+  
+  }
+  .cards{
+      background-color: white;
+  border-style: outset;
+     
+      
+      color: royalblue;
+      
+  
+  }
+  .mis{
+      justify-content: space-around;
+  }
+  footer{
+      background-color: black;
+      color: white;
+   
+  }
+  .dives{
+      background-color: royalblue;
+      color: white;
+      height: 300px;
+  }
+  .data{
+      color: white;
+      background-color: royalblue;
+  }
+  span{
+       color: darkgreen;
+   }
+   h1{
+       color: royalblue;
+   }
+   h2{
+       color: royalblue;
+   }
+   hr{
+      
+      width: 150px;
+      margin-left: 0px;
+      border-color: green;
+  }
+   
+  .content{
+     text-align: justify;
+  }
+  
+  .btn-light:hover{
+       background-color: royalblue;
+   }
+  .events{
+      border-style: outset;
+      height: 500px;
+  
+  }
+   .column {
+    float: center;
+    color: royalblue;
+    border-style: outset;
+    padding: 40px;
+    margin-left: 25px;
+    background-color: white;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  .left, .right,.middle {
+    width: 30%;
+  }
+  h5{
+      margin-left: 50px;
+      margin-top: -30px;
+      color: royalblue;
+  }
+  .icon{
+    margin-left: 1100px;
+    border-radius: 20px;
+    margin-top: -100px;
+    
+  
+}
+  .ill{
+      list-style: none;
+  }
+  
+  .social{
+      background-color: blue;
+      border-radius: 15px;
+      height: 35px;
+      color: white;
+      padding: 10px;
+  
+      
+  }
+  .foot{
+      background-color:royalblue;
+      color: white;
+      
+      font-size: large;
+  }
